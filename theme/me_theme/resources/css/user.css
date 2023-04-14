@@ -1,0 +1,20 @@
+.content-messaje {
+  height: 50px;
+  width: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  right: 50px;
+}
+
+.error-messaje {
+  background-color: tomato;
+  color: black;
+}
+
+.ok-messaje {
+  background-color: greenyellow;
+  color: white;
+}
